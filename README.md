@@ -35,4 +35,4 @@ The script bypasses Python's module import caching via `importlib.reload()`, con
 
 ### Execution
 ```bash
-python main.py
+python main.py    # Or your own command. Remember to stop the script.
