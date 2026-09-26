@@ -1,0 +1,2 @@
+# PC-Stress-Test-
+This Python script opens infinite XKCD pages. WARNING: USE AT YOUR OWN COST. High probability of Desktop Window Manager (DWM) white-screen reset. ALWAYS SAVE YOUR WORK BEFORE TESTING. DO NOT ASSUME A POWERFULL SYSTEM CAN HANDLE THIS. RUNNING THIS SCRIPT CONSUMES LARGE AMOUNTS OF RAM.
